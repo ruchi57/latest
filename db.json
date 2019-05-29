@@ -1,0 +1,70 @@
+{
+  "Employee": [
+    {
+      "id": 1,
+      "EmpId": "1",
+      "EmpTagNumber": "A111",
+      "FirstName": "Ruchi",
+      "LastName": "Goswami",
+      "EmailAdress": "r@gmail.com",
+      "Department": "Dev",
+      "Birthdate": "14-05-1995",
+      "Designation": "Software Developer"
+    },
+    {
+      "id": 2,
+      "EmpId": "2",
+      "EmpTagNumber": "A112",
+      "FirstName": "Riya",
+      "LastName": "Gor",
+      "EmailAdress": "riya@gmail.com",
+      "Department": "QA",
+      "Birthdate": "04-04-1995",
+      "Designation": "QA Engineer"
+    },
+    {
+      "id": 3,
+      "EmpId":"3",
+      "EmpTagNumber": "A113",
+      "FirstName": "Aisha",
+      "LastName": "Tagor",
+      "EmailAdress": "a@gmail.com",
+      "Department": "Software Developer",
+      "Birthdate": 28,
+      "Designation": "Software Developer"      
+    },
+    {
+      "id": 4,
+      "EmpId": "4",
+      "EmpTagNumber": "A114",
+      "FirstName": "Johny",
+      "LastName": "Doe",
+      "EmailAdress": "john@gmail.com",
+      "Department": "Software Developer",
+      "Birthdate": 28,
+      "Designation": "Software Developer"
+    },
+    {
+      "id": 5,
+      "EmpId": "5",
+      "EmpTagNumber": "A115",
+      "FirstName": "Anna",
+      "LastName": "Pintoo",
+      "EmailAdress": "ap@gmail.com",
+      "Department": "QA Engineer",
+      "Birthdate": 28,
+      "Designation": "QA Engineer"
+    },
+    {
+      "id": 6,
+      "EmpId": "6",
+      "EmpTagNumber": "A116",
+      "FirstName": "Anna",
+      "LastName": "Pinto",
+      "EmailAdress": "ap@gmail.com",
+      "Department": "QA Engineer",
+      "Birthdate": 28,
+      "Designation": "QA Engineer"
+    }
+  ]
+}
